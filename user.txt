@@ -1,2 +1,2 @@
 <?php
-echo" berhasil\n";
+echo" berhasil bossku\n";
